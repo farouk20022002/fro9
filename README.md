@@ -1,9 +1,9 @@
 <h1 align="center">I'm Farouk Ladjimi</h1>
 <h3 align="center">Computer Science Engineering Student</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chadibenrejeb&label=Profile%20views&color=0e75b6&style=flat" alt="ladjimiFarouk" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=farouk20022002&label=Profile%20views&color=0e75b6&style=flat" alt="ladjimiFarouk" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=farouk20022002" alt="chadibenrejeb" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=farouk20022002" alt="faroukLadjimi" /></a> </p>
 
 - 📫 How to reach me **farouk.lajimi@eniso.u-sousse.tn**
 
